@@ -1,0 +1,38 @@
+body {
+	text-align:center;
+}
+
+ul{
+	background-color: #f46b42;
+	margin:30px;
+	padding:30px;
+}
+li{
+	background: #4280f4;
+	display: inline-block;
+	padding: 10px;
+}
+.box{
+	display: inline-block;
+	width: 40%;
+}
+img{
+	width:65%;
+	padding:25px;
+	margin:10px;
+}
+.css{
+	background-color:#EE6526;
+}
+.html{
+	background-color:#2BA8E0;
+}
+#newDiv {
+	background-color:#4280f4;
+	height:100px;
+	width:100px;
+	border-radius:50%;
+}
+#newDiv2 {
+	background-color:tomato;
+}
